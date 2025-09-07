@@ -34,3 +34,11 @@ This project follows **Clean Architecture** principles with **MVVM**, uses a rem
 
 This app is built with **Clean Architecture**:
 
+---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="https://github.com/aniket-adhav/Currency-Exchange-App/blob/main/Screenshot1.jpg?raw=true" width="300" />
+  <img src="https://github.com/aniket-adhav/Currency-Exchange-App/blob/main/Screenshot2.jpg?raw=true" width="300" />
+</p>
